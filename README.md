@@ -1,3 +1,5 @@
+¡Estoy feliz de hacer mi primera edición!
+﻿# Proyecto modificado por Vanny
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
@@ -57,7 +59,7 @@ Small improvements or fixes are always appreciated. If you are considering large
 to the source code, please contact us through the [mailing
 list](https://mail.python.org/mailman/listinfo/numpy-discussion) first.
 
-Writing code isn’t the only way to contribute to NumPy. You can also:
+Writing code isnâ€™t the only way to contribute to NumPy. You can also:
 - review pull requests
 - help us stay on top of new and old issues
 - develop tutorials, presentations, and other educational materials
@@ -68,11 +70,11 @@ Writing code isn’t the only way to contribute to NumPy. You can also:
 - write grant proposals and help with other fundraising efforts
 
 For more information about the ways you can contribute to NumPy, visit [our website](https://numpy.org/contribute/). 
-If you’re unsure where to start or how your skills fit in, reach out! You can
+If youâ€™re unsure where to start or how your skills fit in, reach out! You can
 ask on the mailing list or here, on GitHub, by opening a new issue or leaving a
 comment on a relevant issue that is already open.
 
-Our preferred channels of communication are all public, but if you’d like to
+Our preferred channels of communication are all public, but if youâ€™d like to
 speak to us in private first, contact our community coordinators at
 numpy-team@googlegroups.com or on Slack (write numpy-team@googlegroups.com for
 an invitation).
